@@ -2,7 +2,6 @@ import {action, thunk} from 'easy-peasy';
 import uuid from 'uuid';
 import { v4 as uuidv4 } from 'uuid';
 
-
 export default {
     todos: [],
     //  Thunks
